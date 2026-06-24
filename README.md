@@ -24,6 +24,7 @@
 
 <details>
 <summary>🪟 Windows</summary>
+   
 1. Pobierz i uruchom plik instalacyjny z rozszerzeniem `.msi`.
 2. Jeśli Windows wyświetli ostrzeżenie:
    - Kliknij **„Więcej informacji”**
@@ -36,6 +37,7 @@
 
 <details>
 <summary>🍎 macOS</summary>
+   
 1. Pobierz plik instalacyjny `.dmg`.
 2. Otwórz plik `.dmg` i przeciągnij aplikację do folderu Aplikacje (Applications) lub innej lokalizacji.
 3. Uruchom aplikację.
@@ -50,6 +52,7 @@
 
 <details>
 <summary>🤖 Android</summary>
+   
 1. Pobierz `.apk`
 2. Otwórz pobrany plik
 3. Jeśli instalacja z nieznanych źródeł jest zablokowana
@@ -110,6 +113,7 @@
 
 <details>
 <summary>🪟 Windows</summary>
+   
 1. Download and run the installer file with the `.msi` extension.
 2. If Windows shows a security warning:
    - Click **“More info”**
@@ -122,6 +126,7 @@
 
 <details>
 <summary>🍎 macOS</summary>
+   
 1. Download the `.dmg` installer file.
 2. Open the `.dmg` file and drag the application to the Applications folder (or another preferred location).
 3. Launch the application.
