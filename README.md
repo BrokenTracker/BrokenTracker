@@ -105,17 +105,6 @@
 
 # 🇬🇧 English
 
-## 🎬 Video presentation
-
-### 🖥️ Windows / macOS  
-[![Windows / macOS video](https://img.youtube.com/vi/T4Ymbs7JwAo/0.jpg)](https://youtu.be/T4Ymbs7JwAo?si=TK4CphEsajfu8glN)
-
----
-
-### 🤖 Android  
-[![Android video](https://img.youtube.com/vi/DU9oE4ZadtY/0.jpg)](https://youtu.be/DU9oE4ZadtY?si=jmrAfuvwPh9d0O5Z)
----
-
 ## 📦 Installation
 👉 **[Download latest release](https://github.com/BrokenTracker/BrokenTracker/releases/latest)**
 
