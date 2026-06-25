@@ -60,6 +60,7 @@
 4. Zainstaluj aplikację i uruchom ją.
 </details>
 
+Po pierwszym uruchomieniu aplikacji należy otworzyć Targowisko i wejść w zakładki: Przedmioty, Orby oraz Drifty, aby pobrać aktualne ceny.
 ---
 
 ## 🖥️ HUD
@@ -149,6 +150,7 @@
 4. Install and launch the application
 </details>
 
+After the first launch of the application, open the Market and go to the Items, Orbs, and Drifts tabs to download the current prices.
 ---
 
 ## 🖥️ HUD
